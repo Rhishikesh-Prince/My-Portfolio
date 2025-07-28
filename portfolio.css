@@ -5,7 +5,7 @@
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background: rgb(198, 198, 198);
+  background: rgb(156, 156, 156);
 }
 
 .navbar {
@@ -49,7 +49,7 @@
 #hidden-div {
   height: 10vh;
   /* width: 80vw; */
-  background: rgba(255, 253, 253, 0);
+  background: rgba(146, 142, 142, 0);
   position: absolute;
   z-index: 1;
   border-radius: 1vw;
@@ -1281,4 +1281,3 @@
 
   
 }
-
